@@ -87,3 +87,13 @@ input{
     font-family: 'Bebas Neue', cursive;
     opacity : 0.9;
 }
+
+::-webkit-scrollbar{
+    width: 5px
+}
+
+::-webkit-scrollbar-thumb{
+    width: 5px;
+    background-color: #000000;
+}
+  
